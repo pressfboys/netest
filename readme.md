@@ -1,3 +1,3 @@
-#Git and GitHub Course
+#Git and GitHub learning
 
-Crash curse for Git
+Crash course for Git
