@@ -1,3 +1,3 @@
 #Git and GitHub learning
 
-Crash course for Git
+Here I learn Git and upload up-to-date information to my portfolio.
